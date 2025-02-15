@@ -294,7 +294,6 @@ img {
 
 .song-list__see-more:hover {
   text-decoration: underline;
-  /* overflow-y: auto; */
 }
 
 /* SongItem */
